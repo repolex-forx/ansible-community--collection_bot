@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/ansible-community/collection_bot",
+  "@type": "gh:Repository",
+  "gh:name": "collection_bot",
+  "gh:owner": "ansible-community",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/ansible-community/collection_bot/commit/eed09ff73ec1d5828bbdc89e900494004e09794f",
+      "git:hexsha": "eed09ff73ec1d5828bbdc89e900494004e09794f",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
