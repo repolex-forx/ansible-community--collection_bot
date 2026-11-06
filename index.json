@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "collection_bot",
+  "versions": [
+    {
+      "commit": "eed09ff73ec1d5828bbdc89e900494004e09794f",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:48:46.895434+00:00"
+    }
+  ]
+}
